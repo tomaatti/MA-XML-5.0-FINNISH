@@ -12,10 +12,10 @@
   <string name="account_folder_list_summary_starred">Tähdelliset</string>
   <string name="account_name_display_all">Kaikki tunnukset</string>
   <string name="account_out_of_quota">Tunnuksen tallennuskapasiteetti on loppunut</string>
-  <string name="account_password_spaces_error">"This password starts or ends with one or more space characters. Many servers don't support passwords with spaces."</string>
-  <string name="account_security_dialog_content_fmt">%s requires that you update your security settings.</string>
+  <string name="account_password_spaces_error">"Tämä salasana alkaa tai päättyy yhdellä tai useammalla välilyönnillä. Useat palvelimet eivät tue välilyönnillisiä salasanoja."</string>
+  <string name="account_security_dialog_content_fmt">%s edellyttää, että päivität suojausasetukset.</string>
   <string name="account_security_dialog_title">Turvallisuuspäivitys</string>
-  <string name="account_security_policy_explanation_fmt">The server %s requires that you allow it to remotely control some security features of your Android device.</string>
+  <string name="account_security_policy_explanation_fmt">Palvelin %s edellyttää, että annat sen kauko-ohjata joitakin oman Android-laitteesi turvaominaisuuksia.</string>
   <string name="account_security_title">Laitteen turvallisuus</string>
   <string name="account_security_waiting_policy_key_message">%s needs security settings information from server，please wait...</string>
   <string name="account_settings_action">Tilin asetukset</string>
